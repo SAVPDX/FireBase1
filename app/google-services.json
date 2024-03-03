@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988503981719",
+    "project_id": "isav-1bbbd",
+    "storage_bucket": "isav-1bbbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988503981719:android:7e81976c9bb10da0cef3d2",
+        "android_client_info": {
+          "package_name": "com.victor.sav"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQteiPF3PfbPMvjjHI901aJcgZxkK4pOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
